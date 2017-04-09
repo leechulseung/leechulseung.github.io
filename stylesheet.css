@@ -1,0 +1,21 @@
+@font-face {
+	font-family: "SpoqaHanSans";
+	src: url("font/Spoqa Han Sans Bold.ttf") format('truetype');
+}
+
+html{
+	font-family: 'SpoqaHanSans', '굴림', '궁서', '바탕체';
+}
+
+.carousel-inner img{
+	width:100%;
+	height:95vh;
+}
+
+.footer{
+	height:50px;
+	line-height: 50px;
+	text-align: center;
+	background-color: #1d1d1d;
+	color:#fff;
+}
